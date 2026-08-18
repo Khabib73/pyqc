@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Communication%20Guidelines-8A2BE2?style=flat)](https://khabib73.github.io/open-source-playbook/)
+[![](https://img.shields.io/badge/Communication%20Guidelines-8A2BE2?style=flat)](https://github.com/Khabib73/open-source-playbook)
 
 
 1. Fork the repository.
